@@ -1,0 +1,16 @@
+# data (no subir datasets)
+data/raw/
+data/interim/
+data/processed/
+
+# notebooks
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# mac
+.DS_Store
