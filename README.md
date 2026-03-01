@@ -1,4 +1,4 @@
-# Store Sales Forecasting (Corporación Favorita - Kaggle)
+# Store Sales Forecasting
 
 Forecast daily unit sales at the store × product family level.  
 Focus: strong baselines, time-series backtesting (no leakage), feature engineering and interpretable ML.
